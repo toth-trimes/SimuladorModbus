@@ -1,4 +1,4 @@
-# Simulador Modbus RTU - C# (.NET Windows Forms)
+# Simulador Multi-Dispositivos Modbus-RTU - C# (.NET Windows Forms)
 
 Este projeto é um **simulador de multi-dispositivos Modbus RTU via porta serial (COM)** desenvolvido em **C#**, com foco em auxiliar desenvolvedores, testadores e integradores de sistemas que trabalham com automação industrial, controle e leitura de sensores.
 
